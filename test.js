@@ -1,1 +1,1 @@
-console.log("Hello world bleepe blsksk!");
+alert("Hello! I am an alert box!!");
