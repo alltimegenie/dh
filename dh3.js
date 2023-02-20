@@ -102,6 +102,7 @@ show_other_rows = function (event) {
 }
 {
   check_for_profit = function () {
+    console.log("run it");
     profits = document.getElementsByClassName("profit-col"); for (profit of profits) {
       console.log(profit);
     }
