@@ -1,12 +1,6 @@
 // ==UserScript==
-// @name         devin's dh improvements
-// @namespace    http://tampermonkey.net/
-// @version      1.0.4
-// @description  dh improvements
-// @author       Devin Shelly
+// @name         dh sucks
 // @match        https://darkhorseodds.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=darkhorseodds.com
-// @grant        none
 // ==/UserScript==
 ​
 ​
